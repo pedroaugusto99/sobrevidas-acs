@@ -15,3 +15,5 @@ Este repositório contém a base para criação de um sistema web baseado em HTM
 3. Clicar em General > Escreva o nome do seu servidor de banco de dados
 4. Clicar em Connection > Host name/address: escreva localhost | Username: postgres | Senha: postgres
 5. Criar um banco de dados com o nome do seu projeto
+
+6. teste
